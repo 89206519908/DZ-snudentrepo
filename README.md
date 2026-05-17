@@ -1,2 +1,2 @@
-# DZ-snudentrepo
+# DZ-studentrepo
 практическое дз -  урок cистемы контроля версий
